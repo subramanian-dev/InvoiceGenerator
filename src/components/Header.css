@@ -1,0 +1,10 @@
+.name {
+  font-weight: 500;
+  text-transform: capitalize;
+  font-size: 18px;  
+}
+.Header {
+  min-height: 50px;
+  padding: 0 15px;
+  background-color: #444444;
+}

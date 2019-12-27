@@ -1,0 +1,25 @@
+.SubApp {
+  font-size: 12px;
+}
+button {
+  padding: 1%;
+  border: transparent;
+  border: 1px solid #999;
+  min-width: 60px;
+  font-weight: 500;
+  margin-top: 2%;
+}
+.left-btn {
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+.right-btn {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+* {
+  color: #999;
+}
+button:disabled {
+  color: #999;
+}
